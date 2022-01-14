@@ -1,5 +1,5 @@
 {
-  "name": "@dtinth/news-fragments",
+  "name": "@spacet.me/news-fragments",
   "type": "module",
   "version": "1.15.2-0",
   "description": "A release-it plugin to manipulate changelogs",
